@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HITESHMS
 - 👀 I’m interested in computer and android 
 - 🌱 I’m currently learning computer engineering 
-- 💞️ I’m looking to collaborate on any field related project
+- 💞️ I’m looking to collaborate on any tech related project
 - 📫 reach me at hiteshshikne@gmail.com
 
 <!---
