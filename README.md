@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HITESH
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning computer engineering 
+- 🌱 I’m currently Pursuing computer engineering 
 - 💞️ I’m looking to collaborate on any tech related project
 - 📫 reach me at hiteshshikne@gmail.com
 
